@@ -51,19 +51,16 @@
 
     function game() {
 
-        const playerSelection =  prompt(`Round ${round} - Choose rock, paper or scissors`);
+        for (let round = 1; round <= 5; round++) {
+     
+            const playerSelection =  prompt(`Round ${round} - Choose rock, paper or scissors`);
+            
+            const computerSelection = computerPlay();
 
-        const computerSelection = computerPlay();
-
-        const gameOptions = ['rock', 'paper', 'scissors'];
-
-        if(gameOptions.includes(playerSelection)) {
             playRound(playerSelection, computerSelection);
             
             console.log(playRound(playerSelection, computerSelection));
-        } else {
-            playerSelection;
-        }                   
+        }        
 
         if (scoreComputer > scorePlayer) {
             result = `Computer is the winner with a score of ${scoreComputer}`;
