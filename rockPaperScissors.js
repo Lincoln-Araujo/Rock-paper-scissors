@@ -128,7 +128,11 @@ function game() {
 }
 
 console.log("Welcome to Rock, Paper & Scissors game");
+
 console.log("Win 5 rounds to be THE CHAMPION");
+
 alert("Welcome to Rock, Paper & Scissors game, Win 5 rounds to be THE CHAMPION");
+
 alert("Oh, open your browser console to check the results");
+
 console.log(game());
