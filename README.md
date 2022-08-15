@@ -1,6 +1,5 @@
 # Rock-paper-scissors
-:fist: :raised_hand: :v: <br/>
-<font color="yellow"> console version </font>
+:fist: :raised_hand: :v: <p style="color=C1C4C4"> console version </font>
 
 :memo:**DESCRIPTION:** 
 <p style="font-size: 16px">
