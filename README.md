@@ -7,11 +7,20 @@
     How this game have a rule that the player must win 5 rounds to be the champion, making a loop was little challenge because 'while' is a kind of loop really annoying if you do not know how to make the loop stops. In the end, I could find a way to use 'while' with some 'ifs' to prevent input errors.
 </p>
 
-#### **LINK TO PROJECT** 
+#### **LINK TO THE PROJECT** 
  <p>https://lincoln-araujo.github.io/Rock-paper-scissors/</p>
 
 
 #### **PROGRAMMING TRAINING COURSE**
-This project was developed during the programming training offered by [**Brainnest**](https://www.brainnest.consulting/)
 
-<a href="https://www.brainnest.consulting/"><img src="https://static.wixstatic.com/media/4fa9c2_0b28731f38304ed0989a8c0582f953a3~mv2.png/v1/fill/w_2500,h_2500,al_c/4fa9c2_0b28731f38304ed0989a8c0582f953a3~mv2.png" width="200" style="margin:auto auto"></a>
+<table> 
+    <tr>
+        <td>
+            <a href="https://www.brainnest.consulting/"><img src="https://static.wixstatic.com/media/4fa9c2_0b28731f38304ed0989a8c0582f953a3~mv2.png/v1/fill/w_2500,h_2500,al_c/4fa9c2_0b28731f38304ed0989a8c0582f953a3~mv2.png" width="200"></a>
+        </td>
+        <td>
+            This project was developed during the programming training offered by <a href="https://www.brainnest.consulting/"><strong>Brainnest</strong></a>
+        </td>
+    </tr>
+</table>
+
