@@ -1,5 +1,5 @@
 # Rock-paper-scissors
-:fist: :raised_hand: :v: <p style="color=C1C4C4"> console version </font>
+:fist: :raised_hand: :v: <i style="color=C1C4C4"> console version </i>
 
 :memo:**DESCRIPTION:** 
 <p style="font-size: 16px">
@@ -14,4 +14,4 @@
 **PROGRAMMING TRAINING COURSE**
 This project was developed during the programming training offered by [**Brainnest**](https://www.brainnest.consulting/)
 
-<center> <a href="https://www.brainnest.consulting/"><img src="https://static.wixstatic.com/media/4fa9c2_0b28731f38304ed0989a8c0582f953a3~mv2.png/v1/fill/w_2500,h_2500,al_c/4fa9c2_0b28731f38304ed0989a8c0582f953a3~mv2.png" width="200"> </center>
+<a href="https://www.brainnest.consulting/"><img src="https://static.wixstatic.com/media/4fa9c2_0b28731f38304ed0989a8c0582f953a3~mv2.png/v1/fill/w_2500,h_2500,al_c/4fa9c2_0b28731f38304ed0989a8c0582f953a3~mv2.png" width="200" style="margin:auto auto"></a>
